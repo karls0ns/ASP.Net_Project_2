@@ -1,0 +1,56 @@
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\LD3 Web App.dll.config
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\LD3 Web App.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\LD3 Web App.pdb
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\csc.exe
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\csc.exe.config
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\csc.rsp
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\csi.exe
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\csi.exe.config
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\csi.rsp
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.AppContext.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Console.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.IO.Compression.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.Claims.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.ValueTuple.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\vbc.exe
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\vbc.exe.config
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\vbc.rsp
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\VBCSCompiler.exe
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\obj\Release\LD3 Web App.csprojAssemblyReference.cache
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\obj\Release\LD3 Web App.csproj.CoreCompileInputs.cache
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\obj\Release\LD3 Web App.csproj.CopyComplete
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\obj\Release\LD3 Web App.dll
+C:\Users\karls\Desktop\ASP.NET\LD3\LD3 Web App\obj\Release\LD3 Web App.pdb

@@ -1,0 +1,49 @@
+﻿body {
+    background-color: azure;
+}
+
+#main h1 {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+#mainBody {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.textBox {
+    margin-top: 10px;
+    display: inline-block;
+    height: 25px;
+    vertical-align: middle;
+    font-size: 18px;
+    width: 700px;
+    margin-right: 10px;
+ }
+
+.textBox1 {
+    margin-top: 10px;
+    display: inline-block;
+    height: 25px;
+    vertical-align: middle;
+    font-size: 18px;
+    width: 700px;
+    margin-right: 10px;
+    margin-left: 313px;
+    margin-bottom: 20px;
+}
+
+.Label {
+    margin-top: 10px;
+    display: inline-block;
+    text-align: right;
+    height: 25px;
+    font-size: 25px;
+    vertical-align: middle;
+    width: 300px;
+    margin-right: 10px;
+}
